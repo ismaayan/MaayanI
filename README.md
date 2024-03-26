@@ -1,6 +1,6 @@
 <!-- Replace the placeholders (e.g., YOUR-USERNAME) with your actual information -->
 
-# Hi there! 👋 I'm Maayan a QA automation engineer
+# Hi there! 👋 I'm Maayan
 
 
 I'm a QA Automation Engineer with expertise in Playwright, JavaScript, HTML, CSS, and more. Welcome to my GitHub profile, where I showcase my projects and contributions!
