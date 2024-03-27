@@ -7,12 +7,16 @@ I'm a QA Automation Engineer with expertise in Playwright, JavaScript, HTML, CSS
 
 ## 🔧 Skills
 
-- **Programming Languages:** JavaScript,Java,Python
+- **Programming Languages:** JavaScript, Java, Python
 - **Automation Tools:** Playwright, Cypress
 - **Web Technologies:** HTML, CSS, JSON
 - **Development Tools:** VS Code, Git
+- **Database:** MongoDB, MySQL
 - **Project Management:** Jira
 - **API Testing:** Postman
+- **Methodologies:** Agile/Scrum/Kanban, Waterfall
+- **Operating Systems:** MacOS, Windows
+
 
 
 Feel free to explore more of my projects on [GitHub](https://github.com/maayan89).
