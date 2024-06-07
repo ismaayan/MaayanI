@@ -7,13 +7,16 @@ I'm a QA Automation Engineer with expertise in Playwright, JavaScript, HTML, CSS
 
 ## 🔧 Skills
 
-- **Programming Languages:** JavaScript, Java, Python
-- **Automation Tools:** Playwright, Cypress
+- **Programming Languages:** TypeScript, JavaScript, Java, Python, SQL
+- **Automation Tools:** Playwright, Cypress, Selenium WebDriverIO
 - **Web Technologies:** HTML, CSS, JSON
-- **Development Tools:** VS Code, Git
+- **IDEs:** VS code, Pycharm, Eclipse
+- **Version Control System:** Git, GitLab, Bit Bucket
 - **Database:** MongoDB, MySQL
 - **Project Management:** Jira
-- **API Testing:** Postman
+- **CI/CD:** Jenkines
+- **API Testing:** Postman, SOAP UI
+- **Other Tools:** Confluence, Datadog, Sentry, GitHub
 - **Methodologies:** Agile/Scrum/Kanban, Waterfall
 - **Operating Systems:** MacOS, Windows
 
