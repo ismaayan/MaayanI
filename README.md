@@ -16,7 +16,7 @@ I'm a QA Automation Engineer with expertise in Playwright, JavaScript, HTML, CSS
 - **Project Management:** Jira
 - **CI/CD:** Jenkines
 - **API Testing:** Postman, SOAP UI
-- **Other Tools:** Confluence, Datadog, Sentry, GitHub
+- **Other Tools:** Confluence, Datadog, Sentry
 - **Methodologies:** Agile/Scrum/Kanban, Waterfall
 - **Operating Systems:** MacOS, Windows
 
